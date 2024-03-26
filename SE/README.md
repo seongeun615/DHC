@@ -6,7 +6,7 @@
 initial-scale=1.0">
     <style>
         .selc {
-            color:red
+            color: red
         }
     </style>
     <title>Document</title>
